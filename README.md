@@ -20,7 +20,7 @@ More information:
 
 ### Install rbenv
 
-Having rbenv is NOT required but proved useful and therefore recommended.
+Having `rbenv` is NOT required but proved useful and therefore recommended.
 
 Install [rbenv](https://github.com/rbenv/rbenv).  Then, if `rbenv install -l`
 does not show the latest ruby versions this means your rbenv distribution is
